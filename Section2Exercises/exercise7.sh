@@ -1,3 +1,4 @@
+#!/bin/bash
 FNAME=$1
 if [ -f ${FNAME} ]
 then

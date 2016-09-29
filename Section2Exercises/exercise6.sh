@@ -1,3 +1,4 @@
+#!/bin/bash
 read -p "Please input a file or directory name: " FNAME
 if [ -f ${FNAME} ]
 then

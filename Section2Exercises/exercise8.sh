@@ -1,3 +1,4 @@
+#!/bin/bash
 for FNAME in $@
 do
   if [ -f ${FNAME} ]
